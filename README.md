@@ -12,23 +12,38 @@
 
 ![image](https://user-images.githubusercontent.com/49242954/124687839-51339700-df08-11eb-9558-bd68bbb912c6.png)
 
+
 2、登录
+
+![image](https://user-images.githubusercontent.com/49242954/124688475-68bf4f80-df09-11eb-836a-707f70328087.png)
+
 
 3、查看余额
 
+![image](https://user-images.githubusercontent.com/49242954/124688536-84c2f100-df09-11eb-9ba9-dcca15bd5c72.png)
+
+
 4、提现功能
+
 ![image](https://user-images.githubusercontent.com/49242954/124687921-83dd8f80-df08-11eb-8fe2-e221fa839b42.png)
+
 
 5、还款
 ![image](https://user-images.githubusercontent.com/49242954/124687939-8d66f780-df08-11eb-9b0c-0c139c3eb1d8.png)
 
+
 6、转账
+
 ![image](https://user-images.githubusercontent.com/49242954/124687991-a66fa880-df08-11eb-9d45-0e78b9181f81.png)
 
+
 7、查看流水
+
 ![image](https://user-images.githubusercontent.com/49242954/124688027-b38c9780-df08-11eb-91cd-87bbdedd3d0c.png)
 
+
 8、购物功能
+
 ![image](https://user-images.githubusercontent.com/49242954/124688123-d454ed00-df08-11eb-8c4d-12ef2d2bee30.png)
 ![image](https://user-images.githubusercontent.com/49242954/124688138-dae36480-df08-11eb-83f0-383b2399efdc.png)
 ![image](https://user-images.githubusercontent.com/49242954/124688160-e46ccc80-df08-11eb-91d2-cb3f86ac91f9.png)
@@ -36,9 +51,12 @@
 
 
 9、查看购物车
+
 ![image](https://user-images.githubusercontent.com/49242954/124688261-0d8d5d00-df09-11eb-9079-019dc5ee3e29.png)
 
+
 10、管理员功能
+
 ![image](https://user-images.githubusercontent.com/49242954/124688348-2e55b280-df09-11eb-98e2-880f66974686.png)
 ![image](https://user-images.githubusercontent.com/49242954/124688370-3877b100-df09-11eb-9f2e-2a012799385e.png)
 ![image](https://user-images.githubusercontent.com/49242954/124688393-4299af80-df09-11eb-972b-213b92a2e28e.png)
