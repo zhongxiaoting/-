@@ -29,6 +29,7 @@
 
 
 5、还款
+
 ![image](https://user-images.githubusercontent.com/49242954/124687939-8d66f780-df08-11eb-9b0c-0c139c3eb1d8.png)
 
 
@@ -45,8 +46,11 @@
 8、购物功能
 
 ![image](https://user-images.githubusercontent.com/49242954/124688123-d454ed00-df08-11eb-8c4d-12ef2d2bee30.png)
+
 ![image](https://user-images.githubusercontent.com/49242954/124688138-dae36480-df08-11eb-83f0-383b2399efdc.png)
+
 ![image](https://user-images.githubusercontent.com/49242954/124688160-e46ccc80-df08-11eb-91d2-cb3f86ac91f9.png)
+
 ![image](https://user-images.githubusercontent.com/49242954/124688288-1716c500-df09-11eb-9c5e-37e441c587d9.png)
 
 
@@ -58,7 +62,9 @@
 10、管理员功能
 
 ![image](https://user-images.githubusercontent.com/49242954/124688348-2e55b280-df09-11eb-98e2-880f66974686.png)
+
 ![image](https://user-images.githubusercontent.com/49242954/124688370-3877b100-df09-11eb-9f2e-2a012799385e.png)
+
 ![image](https://user-images.githubusercontent.com/49242954/124688393-4299af80-df09-11eb-972b-213b92a2e28e.png)
 
 
